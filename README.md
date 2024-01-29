@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any front-end projects!
 - 📫 How to reach me: aleksandrs.info
 
-- (https://github-readme-stats.vercel.app/api/top-langs/?username=al3ksandrs)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3ksandrs&langs_count=5&theme=radical)]
 
 <!---
 al3ksandrs/al3ksandrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
