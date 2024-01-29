@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any front-end projects!
 - 📫 How to reach me: aleksandrs.info
 
-- [![al3ksandrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3ksandrs)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3ksandrs)]
 
 <!---
 al3ksandrs/al3ksandrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
